@@ -17,9 +17,6 @@ A simple desktop GUI application built using GTK in C to calculate total academi
 - `data` – Course list (code, name, credits)
 - `README.md` – This file
 
-## 🖥️ Demo
-![Screenshot](demo.png) <!-- Optional: add screenshot or gif here -->
-
 ## 🧪 How to Run
 ```bash
 gcc Credit_Calc.c -o credit_calc `pkg-config --cflags --libs gtk+-3.0`
